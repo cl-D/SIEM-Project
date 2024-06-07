@@ -14,10 +14,10 @@ The idea behind this project is to create a VM in Microsoft Azure that serves as
 
 ## Attacks Graphed on a World Map
 <p align="center">
-<img src="https://i.imgur.com/m0c1zvd.png" height="85%" width="85%" alt="RDP Attacks Graphed on World Map"/>
+<img src="https://i.imgur.com/m0c1zvd.png" alt="RDP Attacks Graphed on World Map"/>
 </p>
 
 ## Most Common Account Names Used During RDP Attacks
 <p align="center">
-<img src="https://i.imgur.com/tDsjFlr.pngg" height="85%" width="85%" alt="Bar Graph of Common Account Names Used Durng RDP Attacks"/>
+<img src="https://i.imgur.com/tDsjFlr.pngg" alt="Bar Graph of Common Account Names Used Durng RDP Attacks"/>
 </p>
